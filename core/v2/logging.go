@@ -90,4 +90,5 @@ const (
 	EnvoyComponentUpstream      EnvoyComponent = "upstream"
 	EnvoyComponentUDP           EnvoyComponent = "udp"
 	EnvoyComponentWASM          EnvoyComponent = "wasm"
+	EnvoyComponentDefault       EnvoyComponent = "default"
 )
